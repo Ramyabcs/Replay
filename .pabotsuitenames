@@ -1,0 +1,5 @@
+datasources:9539d06ea2d37e3b18aa48f6cf9e3883de633a40
+commandlineoptions:28c51339a105117a1217bd43c9de817172a1c939
+suitesfrom:no-suites-from-option
+file:e9c970bc11e97d84cb576f8d7b42c00e8aa56a01
+--suite Tests.Test SM02
